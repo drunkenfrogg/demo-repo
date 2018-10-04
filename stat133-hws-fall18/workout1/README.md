@@ -13,5 +13,6 @@ This is accomplished by the follwing process:
 
 - **Data prepartion**: Including data processing, adding new variables, create a new `nba2018-teams.csv` data file.      
 
-- **Data anallysis**. Including visualization of the ranking data (files stored at `/report`).          
+- **Data anallysis**. Including visualization of the ranking data (files stored at `/report`).           
+
 
